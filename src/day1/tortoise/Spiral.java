@@ -3,7 +3,7 @@ public class Spiral {
 
 	public static void main(String[] args) {
 		// 1. Show the tortoise
-
+Tortoise.class
 		// 3. Set the tortoise to go as fast as possible
 
 		// 4. Do the following (steps 5-8) 75 times
